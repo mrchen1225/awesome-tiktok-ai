@@ -20,6 +20,7 @@ Whether you are running a faceless channel, localizing content for global audien
 - [✂️ Smart Editing & Clipping](#-smart-editing--clipping)
 - [🎙️ Voice Cloning & Audio Processing](#-voice-cloning--audio-processing)
 - [📈 Analytics & SEO](#-analytics--seo)
+- [📥 Download & Content Research](#-download--content-research)
 
 ---
 
@@ -80,6 +81,14 @@ TikTok is a sound-on platform. Great audio is half the battle.
 
 * **[VidIQ](https://vidiq.com/)** - Known for YouTube, but its AI Trend Alerts and long-tail keyword generator are goldmines for TikTok SEO.
 * **[TrendTok](https://trendtok.app/)** - Specifically built to discover trending sounds and emerging topics on TikTok *before* they go viral.
+
+---
+
+## 📥 Download & Content Research
+
+Save watermark-free videos from TikTok and other platforms to study viral hooks, repurpose content, or build your swipe file.
+
+* **[Cyber Collector](https://t.me/cybercollectorbot)** - Free Telegram bot for downloading TikTok videos (no watermark), Instagram Reels/Stories, YouTube + Shorts, X/Twitter, and Facebook. No signup, no ads. Great for quickly saving reference clips without leaving Telegram.
 
 ---
 
