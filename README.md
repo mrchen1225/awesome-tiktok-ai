@@ -83,7 +83,12 @@ TikTok is a sound-on platform. Great audio is half the battle.
 
 ---
 
-### 🤝 Contributing
+#
+## 📅 Scheduling & Publishing
+
+* **[Social Roster](https://socialroster.dev/)** - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar — with bulk upload.
+
+## 🤝 Contributing
 
 Found an amazing AI tool that's not on the list? We'd love to see it! Please submit a **Pull Request** or open an **Issue**.
 
