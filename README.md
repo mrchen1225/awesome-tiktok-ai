@@ -42,6 +42,8 @@ Running a faceless channel, meme page, or pop-culture commentary is the fastest 
     * **Why it rocks:** Easily create highly engaging, viral meme videos, pop-culture commentary, or parody content. It comes with built-in viral potential, making it the perfect "cheat code" to rapidly grow a faceless channel.
 * **[ChatGPT (GPT-4o)](https://chatgpt.com/)** - With the right prompts, it's your best viral scriptwriter. Use it to generate controversial hooks and interactive video ideas.
 * **[Midjourney](https://www.midjourney.com/)** - Pair with ChatGPT scripts to generate ultra-high-quality images for TikTok photo-swipe trends (historical, fantasy, or mystery niches).
+* **[FacelessShorts](https://facelessshorts.io/)** - Automated faceless short-form series: scripted, voiced, captioned, and scheduled to YouTube Shorts, TikTok, and Instagram Reels without filming.
+    * **Why it rocks:** Turns one niche into a daily posting system with a review-first library and scheduled publishing, so a single batch feeds all three platforms.
 
 ---
 
