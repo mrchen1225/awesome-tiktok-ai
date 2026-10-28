@@ -1,5 +1,6 @@
 # 🚀 Awesome TikTok AI Tools: The Ultimate Creator Stack
 
+- [Ideoy](https://ideoy.ai) - AI photo-to-video meme templates — turn a selfie into short vertical remakes of trending memes.
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
