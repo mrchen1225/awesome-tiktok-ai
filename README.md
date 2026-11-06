@@ -42,6 +42,7 @@ Running a faceless channel, meme page, or pop-culture commentary is the fastest 
     * **Why it rocks:** Easily create highly engaging, viral meme videos, pop-culture commentary, or parody content. It comes with built-in viral potential, making it the perfect "cheat code" to rapidly grow a faceless channel.
 * **[ChatGPT (GPT-4o)](https://chatgpt.com/)** - With the right prompts, it's your best viral scriptwriter. Use it to generate controversial hooks and interactive video ideas.
 * **[Midjourney](https://www.midjourney.com/)** - Pair with ChatGPT scripts to generate ultra-high-quality images for TikTok photo-swipe trends (historical, fantasy, or mystery niches).
+* **[Menivor](https://menivor.com/)** - Turns a link or a topic into a finished, ready-to-post vertical reel for faceless channels: AI hook script, AI voiceover, and word-by-word karaoke captions, in English or Turkish.
 
 ---
 
