@@ -80,6 +80,7 @@ TikTok is a sound-on platform. Great audio is half the battle.
 
 * **[VidIQ](https://vidiq.com/)** - Known for YouTube, but its AI Trend Alerts and long-tail keyword generator are goldmines for TikTok SEO.
 * **[TrendTok](https://trendtok.app/)** - Specifically built to discover trending sounds and emerging topics on TikTok *before* they go viral.
+* **[TKMetrics](https://tkmetrics.com/)** - Public TikTok profile stats (followers, likes, videos, engagement on recent videos) for checking how an account really performs.
 
 ---
 
