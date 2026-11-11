@@ -63,6 +63,7 @@ Turn long-form podcasts into viral shorts, or generate cinematic b-roll from scr
 * **[Opus Clip](https://www.opus.pro/)** - A lifesaver for podcast and long-form creators. Turns one YouTube video into dozens of TikTok-ready clips with automatic virality scores.
 * **[Runway Gen-3 Alpha](https://runwayml.com/)** - State-of-the-art AI video generation. Type text or upload an image to create cinematic b-roll instantly.
 * **[Veed.io](https://www.veed.io/)** - A robust browser-based editor, great for quick trimming, adding assets, and exporting fast.
+* **[Genjutsu AI](https://genjutsuai.dev/)** - Browser-based AI video editor: transfer motion, swap a person or outfit, or restyle a clip. Freemium, packs from $7.90.
 
 ---
 
@@ -73,6 +74,7 @@ TikTok is a sound-on platform. Great audio is half the battle.
 * **[ElevenLabs](https://elevenlabs.io/)** - The most realistic and emotive AI voice generator on the market. Behind almost every viral Reddit-story or mystery TikTok video.
 * **[Adobe Podcast AI](https://podcast.adobe.com/enhance)** - Turns cheap microphone recordings into studio-quality audio by instantly removing background noise (Free to use).
 * **[Suno](https://suno.com/)** - Never worry about DMCA strikes again. Generate custom, vocalized background music perfectly tailored to your video's vibe.
+* **[Rhyvello](https://ai-rap-video-maker.com/)** - Turns ideas and photos into solo or duo rap music videos with original lyrics, beats and AI vocals.
 
 ---
 
